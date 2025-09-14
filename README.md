@@ -31,9 +31,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/rohan-deore/](https://www.linkedin.com/in/rohan-deore-5882b8333/))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rohan-deore-5882b8333/)
 - 🏢 [Srujannovate Website](https://srujannovate.com)  
-- ✉️ Reach me at: **[deorerohan.2612@gmail.com]**  
+- ✉️ Reach me at: **deorerohan.2612@gmail.com**  
 
 ---
 ⭐️ *"Building software solutions that simplify complexity and empower industries."*  
